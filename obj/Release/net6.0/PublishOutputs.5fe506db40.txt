@@ -1,0 +1,7 @@
+C:\Users\Ishan\source\repos\TheHensonGroup\obj\Release\net6.0\PubTmp\Out\TheHensonGroup.exe
+C:\Users\Ishan\source\repos\TheHensonGroup\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Ishan\source\repos\TheHensonGroup\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Ishan\source\repos\TheHensonGroup\obj\Release\net6.0\PubTmp\Out\TheHensonGroup.dll
+C:\Users\Ishan\source\repos\TheHensonGroup\obj\Release\net6.0\PubTmp\Out\TheHensonGroup.deps.json
+C:\Users\Ishan\source\repos\TheHensonGroup\obj\Release\net6.0\PubTmp\Out\TheHensonGroup.runtimeconfig.json
+C:\Users\Ishan\source\repos\TheHensonGroup\obj\Release\net6.0\PubTmp\Out\TheHensonGroup.pdb

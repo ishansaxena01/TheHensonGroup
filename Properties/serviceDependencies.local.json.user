@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2023-02-16T10:12:59.3367697Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2023-02-16T10:13:19.8033258Z"
+    }
+  },
+  "parameters": {
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "AzureBackupRG_eastus_1"
+    },
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "f71a87fb-e43f-401c-a4d3-7877349fea1d"
+    }
+  }
+}
